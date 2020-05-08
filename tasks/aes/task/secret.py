@@ -1,0 +1,2 @@
+KEY = b'\xaa\x18\x89\xd9X\x88\x0b*\xb1\x8cc\xe3\xa1\xca\xec\xc1'
+FLAG = b'flag{This_is_AES_CBC_bit_flip_attack}'
